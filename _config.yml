@@ -30,7 +30,7 @@ author:
   bio              : "Master's student in Political Science"
   location         : "Seoul"
   employer         : "Korea University"
-  uri              : "https://hyunsukim-politics.github.io"
+  uri              : # "https://hyunsukim-politics.github.io"
   email            : "hyu422@korea.ac.kr" 
 
   # Academic websites
