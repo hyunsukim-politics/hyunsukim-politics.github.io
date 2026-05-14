@@ -28,8 +28,8 @@ author:
   name             : "Hyun Su Kim"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Political Science"
-  location         : "Seoul"
-  employer         : "Korea University"
+  location         : "Seoul, Korea University"
+  employer         : # ""
   uri              : # "https://hyunsukim-politics.github.io"
   email            : "hyu422@korea.ac.kr" 
 
