@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hyun Su Kim"
+title: "**Hyun Su** Kim"
 author_profile: true
 redirect_from: 
   - /about/
