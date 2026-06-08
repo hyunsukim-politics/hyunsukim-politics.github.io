@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1>Hyun Su <span style="font-weight:300;">Kim</span></h1>
+<p style="font-size: 1.8em; font-weight: 700; margin-bottom: 0.2em;">Hyun Su <span style="font-weight: 300;">Kim</span></p>
 
 Welcome! I am a Master's student in Political Science at Korea University. 
 My research interests lie in comparative and historical political economy.
