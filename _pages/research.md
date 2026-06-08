@@ -6,7 +6,7 @@ author_profile: true
 <style>
 .page__content h1 {
   font-family: "Cormorant Garamond", Georgia, serif;
-  font-size: 0.85em;
+  font-size: 0.95em;
   font-weight: 500;
   letter-spacing: 0.12em;
   text-transform: uppercase;
