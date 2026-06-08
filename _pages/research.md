@@ -15,15 +15,8 @@ author_profile: true
   margin-bottom: 1.5em;
   background-color: #f5f5f5;
 }
-  
-.page__content h2 + p {
-  margin-top: 1em;
-}
-
-.page__content strong {
-  display: block;
-  margin-top: 1em;
-  margin-bottom: 0.1em;
+  .page__content h1:first-of-type {
+  margin-top: 0;
 }
 </style>
 # STATE BUILDING
