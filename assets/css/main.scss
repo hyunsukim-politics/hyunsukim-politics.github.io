@@ -41,3 +41,24 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Playfair Display font override */
+body,
+p,
+li,
+td,
+.page__content,
+.page__meta,
+.author__bio,
+.sidebar,
+.nav__list,
+.masthead__menu-item {
+  font-family: "Playfair Display", Georgia, serif !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.author__name,
+.site-title {
+  font-family: "Playfair Display", Georgia, serif !important;
+}
