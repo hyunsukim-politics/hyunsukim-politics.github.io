@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <style>
-.page__content h2 {
+.page__content h1 {
   font-size: 0.85em;
   font-weight: 400;
   letter-spacing: 0.12em;
