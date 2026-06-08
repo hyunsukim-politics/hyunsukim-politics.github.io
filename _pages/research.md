@@ -18,7 +18,6 @@ author_profile: true
   padding: 0.6em 1em;
 }
 </style>
-
 ## STATE BUILDING
 
 **Tilly Meets Weber: Jurists, Warfare, and Tax Decree in Early Modern Europe**
@@ -26,10 +25,10 @@ author_profile: true
 ## POLARIZATION
 
 **[Partisan Sorting, Affective Polarization, and Democratic Backsliding: Evidence from South Korea](https://doi.org/10.1080/13510347.2025.2525554)**\\
-*Published at Democratization*\\
-With Hyeok Yong Kwon
+<small>*Published at Democratization*</small>\\
+<small>With Hyeok Yong Kwon</small>
 
 **Descriptive Representation, Not a Remedy to Affective Polarization?** \\
-*Under Review*\\
-With Hyeok Yong Kwon
+<small>*Under Review*</small>\\
+<small>With Hyeok Yong Kwon</small>
 
