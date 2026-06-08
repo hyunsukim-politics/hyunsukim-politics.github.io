@@ -22,10 +22,9 @@ author_profile: true
 
 # POLARIZATION
 **Descriptive Representation, Not a Remedy to Affective Polarization?** \\
-<small>*Under Review*</small>\\
-<small>With Hyeok Yong Kwon</small>
+<small>With Hyeok Yong Kwon</small>\\
+<small>*Under Review*</small>
 
 **[Partisan Sorting, Affective Polarization, and Democratic Backsliding: Evidence from South Korea](https://doi.org/10.1080/13510347.2025.2525554)**\\
-<small>*Published at Democratization*</small>\\
-<small>With Hyeok Yong Kwon</small>
-
+<small>With Hyeok Yong Kwon</small>\\
+<small>*Published at Democratization*</small>
