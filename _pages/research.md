@@ -15,16 +15,19 @@ author_profile: true
   margin-top: 2.5em;
   margin-bottom: 1.5em;
   background-color: #f5f5f5;
+  color: #000;
+  transform: scaleX(0.95);
+  transform-origin: left;
 }
   .page__content h1:first-of-type {
   margin-top: 0;
 }
 </style>
-# STATE BUILDING
+# State-Building
 
 Tilly Meets Weber: Jurists, Warfare, and Tax Decree in Early Modern Europe
 
-# POLARIZATION
+# Polarization
 Descriptive Representation, Not a Remedy to Affective Polarization?\\
 <small>With Hyeok Yong Kwon</small>\\
 <small>*Under Review*</small>
