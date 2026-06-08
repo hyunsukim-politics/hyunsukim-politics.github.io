@@ -15,38 +15,20 @@ author_profile: true
   margin-top: 2.5em;
   margin-bottom: 1.5em;
   background-color: #f5f5f5;
+  color: #000000;
 }
-  .page__content h1:first-of-type {
+.page__content h1:first-of-type {
   margin-top: 0;
 }
-/* 라이트모드 명시 */
-.page__content h1 {
-  background-color: #f5f5f5;
-  color: #000000;
-  border-bottom-color: #ccc;
-}
-
-/* 시스템 다크모드 */
-@media (prefers-color-scheme: dark) {
-  .page__content h1 {
-    background-color: #3a3a3a;
-    color: #ffffff;
-    border-bottom-color: #555;
-  }
-}
-
-/* 사이트 토글 다크모드 */
 [data-theme="dark"] .page__content h1 {
   background-color: #3a3a3a;
   color: #ffffff;
   border-bottom-color: #555;
 }
-
-/* 사이트 토글 라이트모드 (시스템이 다크여도 강제 라이트) */
 [data-theme="light"] .page__content h1 {
-  background-color: #f5f5f5;
-  color: #000000;
-  border-bottom-color: #ccc;
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+  border-bottom-color: #ccc !important;
 }
 </style>
 # State-Building
