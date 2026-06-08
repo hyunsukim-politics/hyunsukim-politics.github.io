@@ -19,6 +19,19 @@ author_profile: true
   .page__content h1:first-of-type {
   margin-top: 0;
 }
+  @media (prefers-color-scheme: dark) {
+  .page__content h1 {
+    background-color: #3a3a3a;
+    color: #ffffff;
+    border-bottom-color: #555;
+  }
+}
+/* 사이트 토글 다크모드 */
+[data-theme="dark"] .page__content h1 {
+  background-color: #3a3a3a;
+  color: #ffffff;
+  border-bottom-color: #555;
+}
 </style>
 # State-Building
 
