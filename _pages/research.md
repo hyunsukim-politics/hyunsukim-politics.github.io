@@ -15,8 +15,6 @@ author_profile: true
   margin-top: 2.5em;
   margin-bottom: 1.5em;
   background-color: #f5f5f5;
-  transform: scaleX(0.95);
-  transform-origin: left;
 }
   .page__content h1:first-of-type {
   margin-top: 0;
