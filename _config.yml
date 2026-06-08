@@ -24,7 +24,7 @@ repository               : "hyunsukim-politics/hyunsukim-politics.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : ""
   name             : "Hyun Su Kim"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Political Science"
