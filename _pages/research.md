@@ -6,8 +6,8 @@ author_profile: true
 <style>
 .page__content h1 {
   font-family: "Cormorant Garamond", Georgia, serif;
-  font-size: 0.95em;
-  font-weight: 500;
+  font-size: 0.90em;
+  font-weight: 550;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   border-bottom: 1px solid #ccc;
@@ -16,8 +16,6 @@ author_profile: true
   margin-bottom: 1.5em;
   background-color: #f5f5f5;
   color: #000;
-  transform: scaleX(0.95);
-  transform-origin: left;
 }
   .page__content h1:first-of-type {
   margin-top: 0;
