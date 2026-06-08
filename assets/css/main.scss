@@ -43,22 +43,21 @@
 ;
 
 /* Playfair Display font override */
-body,
-p,
-li,
-td,
+/* 본문 EB Garamond */
+body, p, li, td,
 .page__content,
 .page__meta,
 .author__bio,
-.sidebar,
-.nav__list,
-.masthead__menu-item {
-  font-family: "Playfair Display", Georgia, serif !important;
+.sidebar {
+  font-family: "EB Garamond", Georgia, serif !important;
 }
 
+/* 제목/카테고리 Playfair Display */
 h1, h2, h3, h4, h5, h6,
 .page__title,
 .author__name,
-.site-title {
+.site-title,
+.nav__list,
+.masthead__menu-item {
   font-family: "Playfair Display", Georgia, serif !important;
 }
