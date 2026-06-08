@@ -1,21 +1,19 @@
 ---
 layout: single
-title: " "
 permalink: /research/
 author_profile: true
 ---
 <style>
 .page__content h1 {
   font-size: 0.85em;
-  font-weight: 400;
+  font-weight: 600;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   border-bottom: 1px solid #ccc;
-  padding-bottom: 0.4em;
+  padding: 0.8em 1.2em;
   margin-top: 2.5em;
   margin-bottom: 1.5em;
   background-color: #f5f5f5;
-  padding: 0.6em 1em;
 }
 </style>
 # STATE BUILDING
