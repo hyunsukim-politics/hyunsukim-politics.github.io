@@ -33,7 +33,7 @@ author_profile: true
 </style>
 # State-Building
 
-Tilly Meets Weber: Jurists, Warfare, and Tax Decree in Early Modern Europe
+Tilly Meets Weber: Jurists, Warfare, and Tax Decree in Early Modern Europe\\
 <small>In progress</small>
 
 # Polarization
