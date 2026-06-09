@@ -34,6 +34,7 @@ author_profile: true
 # State-Building
 
 Tilly Meets Weber: Jurists, Warfare, and Tax Decree in Early Modern Europe
+<small>In progress</small>
 
 # Polarization
 Descriptive Representation, Not a Remedy to Affective Polarization?\\
