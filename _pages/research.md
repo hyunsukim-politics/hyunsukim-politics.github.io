@@ -31,12 +31,13 @@ author_profile: true
   border-bottom-color: #ccc !important;
 }
 </style>
-# State-Building
+# Historical Political Economy
 
-Jurists, Warfare, and Tax Decree in Early Modern Europe\\
+Jurist, Warfare, and Tax Decree in Early Modern Europe\\
 <small>In progress</small>
 
-# Polarization
+
+# Democracy and Polarization
 Descriptive Representation, Not a Remedy to Affective Polarization?\\
 <small>With Hyeok Yong Kwon</small>\\
 <small>*Under Review*</small>
