@@ -31,7 +31,7 @@ author_profile: true
   border-bottom-color: #ccc !important;
 }
 </style>
-# Historical Political Economy
+# State-Building
 
 Jurist, Warfare, and Tax Decree in Early Modern Europe\\
 <small>In progress</small>
