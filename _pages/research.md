@@ -38,7 +38,7 @@ Jurist, Warfare, and Tax Decree in Early Modern Europe\\
 
 
 # Democracy and Polarization
-Descriptive Representation, Not a Remedy to Affective Polarization?\\
+Descriptive Representation and Affective Polarization in Multiparty Democracies\\
 <small>With Hyeok Yong Kwon</small>\\
 <small>*Under Review*</small>
 
