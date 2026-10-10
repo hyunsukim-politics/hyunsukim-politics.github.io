@@ -31,14 +31,9 @@ author_profile: true
   border-bottom-color: #ccc !important;
 }
 </style>
-# State-Building
-
-Jurist, Warfare, and Tax Decree in Early Modern Europe\\
-<small>In progress</small>
-
 
 # Democracy and Polarization
-Descriptive Representation and Affective Polarization in Multiparty Democracies\\
+Descriptive Representation and Affective Polarization in Western Multiparty Democracies\\
 <small>With Hyeok Yong Kwon</small>\\
 <small>*Under Review*</small>
 
