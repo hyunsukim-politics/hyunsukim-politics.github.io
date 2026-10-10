@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 <h1>Hyun Su <span style="font-weight:300;">Kim</span></h1>
-Welcome! I am a Master's student in Political Science at Korea University. 
-My research interests lie in comparative and historical political economy.
+Under Construction
 
-Contact: [hyu422@korea.ac.kr](mailto:hyu422@korea.ac.kr).
+Contact: [hyunsukim@ucsd.edu](mailto:hyunsukim@ucsd.edu).
 
