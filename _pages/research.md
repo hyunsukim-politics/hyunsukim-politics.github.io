@@ -36,11 +36,18 @@ author_profile: true
 </style>
 
 # Statebuilding
+Judicial Venality and Rebellions in 17th Century France\\
+<small>*In progress*</small>
+<details>
+<summary>Abstract</summary> 
+The war-made-the-state thesis posits that rulers invested in domestic fiscal institutions to finance warfare, thereby strengthening state capacity. This paper examines an alternative strategy of war financing: judicial venality. French monarchs raised substantial revenues by selling judicial offices, yet this practice fueled widespread grievances that eventually contributed to the French Revolution. On the one hand, judicial venality dramatically increased the number of judicial offices, inadvertently contributing to the state's judicial capacity. On the other hand, it undermined the quality of justice and mounted public discontent. Exploiting subnational variation in the distribution and composition of judicial offices, I examine how these competing effects shaped political unrest in early modern France. I argue that areas with greater lower-level judicial capacity experienced fewer rebellions, as routine access to state-provided adjudication enhanced the credibility and legitimacy of political authority. By contrast, a greater concentration of higher judicial offices is expected to be associated with more frequent rebellions. The findings highlight how alternative strategies of royal revenue extraction shaped not only the development of state capacity but also the stability and ultimate fate of political authority.
+</details>
+
 Railroads and Organized Crime: Evidence from Late Joseon and Korea under Japanese Colonial Rule\\
 <small>*In progress*</small>
 <details>
 <summary>Abstract</summary>
-This paper examines a puzzling case of the coexistence of the state and organized crime in a historical setting: Korea under Japanese colonial rule. While governments generally seek to suppress organized crime, colonial authorities have little incentive to do so when criminal organizations maintain local order without challenging their authority—they can instead free-ride on the order these groups provide. Exploiting the staggered construction of railroads under Japanese rule, I employ a difference-in-differences design and draw on historical newspaper archives to trace organized criminal activity. I find that railroad expansion contributed to the proliferation of organized crime, suggesting that the expansion of colonial state presence facilitated rather than suppressed criminal organizations. These findings highlight how colonial modernization, despite fostering economic development, could also have detrimental social consequences.
+This paper examines a puzzling case of the coexistence of the state and organized crime in a historical setting: Korea under Japanese colonial rule. While governments generally seek to suppress organized crime, colonial authorities have little incentive to do so when criminal organizations maintain local order without challenging their authority—they can instead free-ride on the order these groups provide. Exploiting the staggered construction of railroads under Japanese rule, I employ a difference-in-differences design and draw on historical newspaper archives to trace organized criminal activity. I find that railroad expansion contributed to the proliferation of organized crime, suggesting that the expansion of colonial state presence gave rise to criminal organizations. These findings highlight how colonial modernization, despite fostering economic development, could also have detrimental social consequences.
 </details>
 
 War and the Geography of Crime: Evidence from Postwar Korea\\
