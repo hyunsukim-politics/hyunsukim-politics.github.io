@@ -44,7 +44,7 @@ War and the Geography of Crime: Evidence from Postwar Korea \\
 # Democracy and Polarization
 Descriptive Representation and Affective Polarization in Western Multiparty Democracies\\
 <small>With Hyeok Yong Kwon</small>\\
-<small>*Under Review*</small>
+<small>*RnR*</small>
 
 Partisan Sorting, Affective Polarization, and Democratic Backsliding: Evidence from South Korea\\
 <small>With Hyeok Yong Kwon</small>\\
