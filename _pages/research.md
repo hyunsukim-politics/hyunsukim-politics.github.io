@@ -33,7 +33,7 @@ author_profile: true
 </style>
 
 # Statebuilding
-Railroads and Organized Crime: Evidence from Late Joseon and Korea under Japanese Colonial Rule
+Railroads and Organized Crime: Evidence from Late Joseon and Korea under Japanese Colonial Rule\\
 <small>*In progress*</small>
 <details>
 <summary>Abstract</summary>
@@ -41,8 +41,8 @@ Railroads and Organized Crime: Evidence from Late Joseon and Korea under Japanes
 This paper examines a puzzling case of the coexistence of the state and organized crime in a historical setting: Korea under Japanese colonial rule. While governments generally seek to suppress organized crime, colonial authorities may have little incentive to do so when criminal organizations maintain local order without challenging their authority—they can instead free-ride on the order these groups provide. Exploiting the staggered construction of railroads under Japanese rule, I employ a difference-in-differences design and draw on historical newspaper archives to trace organized criminal activity. I find that railroad expansion contributed to the proliferation of organized crime, suggesting that the expansion of colonial state presence facilitated rather than suppressed criminal organizations. These findings highlight how colonial modernization, despite fostering economic development, could also have detrimental social consequences.
 
 </details>
-
-War and the Geography of Crime: Evidence from Postwar Korea
+\\
+War and the Geography of Crime: Evidence from Postwar Korea\\
 <small>*In progress*</small>
 <details>
 <summary>Abstract</summary>
