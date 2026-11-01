@@ -30,6 +30,9 @@ author_profile: true
   color: #000000 !important;
   border-bottom-color: #ccc !important;
 }
+.page__content details { margin-top: -1em; margin-bottom: 1.5em; }
+.page__content details summary { font-size: 0.8em; cursor: pointer; }
+.page__content details p { font-size: 0.95em; margin-top: 0.5em; }
 </style>
 
 # Statebuilding
