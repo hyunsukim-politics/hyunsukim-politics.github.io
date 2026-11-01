@@ -33,9 +33,8 @@ author_profile: true
 </style>
 
 # Statebuilding
-**Railroads and Organized Crime: Evidence from Late Joseon and Korea under Japanese Colonial Rule**
-<span style="font-size: 0.8em; color: #666;"><em>In Progress</em></span>
-
+Railroads and Organized Crime: Evidence from Late Joseon and Korea under Japanese Colonial Rule
+<small>*In progress*</small>
 <details>
 <summary>Abstract</summary>
 
@@ -43,10 +42,8 @@ This paper examines a puzzling case of the coexistence of the state and organize
 
 </details>
 
-\\
-**War and the Geography of Crime: Evidence from Postwar Korea**
-<span style="font-size: 0.8em; color: #666;"><em>In Progress</em></span>
-
+War and the Geography of Crime: Evidence from Postwar Korea
+<small>*In progress*</small>
 <details>
 <summary>Abstract</summary>
 
@@ -57,7 +54,7 @@ While extensive research shows that war strengthens states' fiscal capacity, war
 # Democracy and Polarization
 Descriptive Representation and Affective Polarization in Western Multiparty Democracies\\
 <small>With Hyeok Yong Kwon</small>\\
-<small>*RnR*</small>
+<small>*Under Review*</small>
 
 Partisan Sorting, Affective Polarization, and Democratic Backsliding: Evidence from South Korea\\
 <small>With Hyeok Yong Kwon</small>\\
